@@ -15,12 +15,12 @@ How to Play (Windows)
 (Note: Because this is a new game made by an independent developer, Windows SmartScreen might show a "Windows protected your PC" warning. You can safely bypass this by clicking "More info" and then "Run anyway".)
 
 How to Play (Mac)
-1. Download the code
+1. Download the code  
 Click the green "<> Code" button at the top of this page and select "Download ZIP".
 
-2. Extract and open Terminal
+2. Extract and open Terminal  
 Extract the downloaded ZIP. Open the Terminal app on your Mac.
 
-3. Run the game
+3. Run the game  
 Type cd  (with a space) and drag the extracted folder into the Terminal window. Press Enter.
 Type python3 Tuplapotti_2.0.py and press Enter to play! (Note: requires Python3, pygame-ce, and tkmacosx to be installed).
